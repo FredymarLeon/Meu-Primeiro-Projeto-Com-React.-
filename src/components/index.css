@@ -1,0 +1,19 @@
+
+.navbar-brand{
+    font-size: 2.2rem;
+    color: #ed8975;
+}
+
+
+h1 {
+    margin-top: 20px;
+    color: #304d63;
+}
+.btn {
+    background-color: rgb(143, 185, 170);
+    border-radius: rgb(147, 112, 216)
+}
+
+.card{
+    background-color: #8fb9aa;
+}
